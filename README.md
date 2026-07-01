@@ -1,5 +1,5 @@
-# Resource Guide
+# Resourceful Labs
 
-AI-powered microsite for Resource Guide.
+AI-powered microsite for Resourceful Labs.
 
-Live at: https://www.resourceguideai.com
+Live at: https://www.resourcefullabs.com
