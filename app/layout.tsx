@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Resource Guide - AI Resource Guide for Smarter Choices",
-  description: "Resource Guide is your AI-powered guide to finding the right resources. Get instant, unbiased guidance — no salespeople, no pressure.",
+  title: "Resourceful Labs - AI Resource Guide for Smarter Choices",
+  description: "Resourceful Labs is your AI-powered guide to finding the right resources. Get instant, unbiased guidance — no salespeople, no pressure.",
 };
 
 export default function RootLayout({
