@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Resourceful Labs</h3>
             <p style={{ color: '#A7F3D0' }}>
-              Your trusted AI guide to finding the right resources.
+              Consulting families on the resources they need in moments that matter.
             </p>
             {/* Social Icons */}
             <div className="flex items-center gap-4 mt-4">
@@ -32,7 +32,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Product</h4>
             <ul className="space-y-2">
               <li><Link href="/about" style={{ color: '#A7F3D0' }} className="hover:text-white">About</Link></li>
-              <li><Link href="/signup" style={{ color: '#A7F3D0' }} className="hover:text-white">Get Guided</Link></li>
+              <li><Link href="/signup" style={{ color: '#A7F3D0' }} className="hover:text-white">Talk to a Consultant</Link></li>
             </ul>
           </div>
           <div>
